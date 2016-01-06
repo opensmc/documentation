@@ -32,3 +32,10 @@ Code for San Mateo uses Slack as our primary project chat client. You can regist
 ### Registering with Github
 
 Github is our source control system of choice. You can follow the instructions on the github main page to gain an account, and then talk to the member running orientation during your first meeting.
+
+## Useful Links:
+
+ * [Our Website](http://www.codeforamerica.org/brigade/OpenSMC/)
+ * [San Mateo County Website](http://www.smcgov.org/)
+ * [San Mateo County Open Data Portal](https://data.smcgov.org/)
+ * [Our Project Ideas Repo](https://github.com/opensmc/project-ideas)
